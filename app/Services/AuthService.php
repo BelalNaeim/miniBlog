@@ -56,10 +56,7 @@ class AuthService
         ];
     }
 
-    public function logout(){
-        auth()->user()->logout();
-        return $this->response('success', __('auth.logout'));
-    }
+
 
 
 
