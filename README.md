@@ -13,7 +13,7 @@ miniBlog is a small project for small scale blog which has articales and comment
 2. Navigate to the project directory:
 
     ```bash
-    cd cosmana
+    cd miniBlog
     ```
 
 3. Install dependencies:
